@@ -1,3 +1,3 @@
 # RZ-Python
 
-Exercises for Python course 
+Exercises for Python course.
