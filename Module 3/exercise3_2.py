@@ -1,4 +1,4 @@
-cabin_class = str(input("Please enter your cabin class:\n"))
+cabin_class = str(input("Please enter your cabin class: "))
 
 if cabin_class == "LUX":
     print("LUX: upper-deck cabin with a balcony")
