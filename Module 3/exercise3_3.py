@@ -20,5 +20,3 @@ elif biological_gender.lower() == "male":
         print("Your hemoglobin value is normal.")
     else:
         print("Invalid hemoglobin value")
-else:
-    print("Invalid biological gender")

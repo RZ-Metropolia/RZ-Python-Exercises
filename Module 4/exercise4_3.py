@@ -1,9 +1,14 @@
-numbers =[]
-number = input("Enter a number or press the Enter button to quit: \n")
+numbers = []
 
+while True:
+    number = input("Please enter a number or press 'Enter' button to quit: ")
 
-while number != "":
+    if number == '':
+        break
+
     numbers.append(float(number))
-    number = input("Enter a number or press the Enter button to quit: \n")
 
-print(f"The largest number you inputted is {max(numbers)}, and the smallest number you inputted is {min(numbers)}.")
+if len(numbers) == 0:
+    print("You did not enter any number.")
+else:
+    print(f"The largest number you inputted is {max(numbers)}, and the smallest number you inputted is {min(numbers)}.")

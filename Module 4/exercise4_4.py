@@ -1,13 +1,13 @@
 from random import randrange
 
-answer = randrange (1, 10)
-guess = int(input("Please guess an integer number between 1 and 10:\n"))
+answer = randrange(1, 11)
+guess = int(input("Please guess an integer number between 1 and 10: "))
 
 while guess != answer:
     if guess > answer:
-        print("Too high!\n")
-        guess = int(input("Try again:\n"))
+        print("Too high!")
+        guess = int(input("Try again: "))
     elif guess < answer:
-        print("Too low!\n")
+        print("Too low!")
         guess = int(input("Try again:\n"))
 print("Correct!")
