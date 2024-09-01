@@ -9,5 +9,5 @@ while guess != answer:
         guess = int(input("Try again: "))
     elif guess < answer:
         print("Too low!")
-        guess = int(input("Try again:\n"))
+        guess = int(input("Try again: "))
 print("Correct!")
