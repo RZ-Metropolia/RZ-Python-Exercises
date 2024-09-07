@@ -1,10 +1,10 @@
-import random
+from random import randrange
 
-def roll_dice(sides_number):
-    return random.randrange(1, sides_number + 1)
+def roll_dice(sides):
+    return randrange(1, sides + 1)
 
-print("\nLet's roll a dice until you get the largest number!")
-sides_number_0 = int(input("How many sides of the dice do you want? "))
+print("\nLet's roll a dice until we get the largest number!")
+sides_number_0 = int(input("Enter the sides for the dice: "))
 while True:
     number = roll_dice(sides_number_0)
 
@@ -13,4 +13,3 @@ while True:
         break
     else:
         print(number)
-        roll_dice(sides_number_0)

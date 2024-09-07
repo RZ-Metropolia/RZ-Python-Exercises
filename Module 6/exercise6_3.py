@@ -1,5 +1,5 @@
 def gallon_to_liter(gallon):
-    return gallon * 3.79
+    return gallon * 3.785
 
 prompt = "Please enter the quantity of gasoline in gallons: "
 while True:
@@ -8,6 +8,7 @@ while True:
     if gallon_0 < 0:
         break
     else:
-        print(f"{gallon_0} gallon(s) is {gallon_to_liter(gallon_0):.2f} liter(s).")
+        liter = gallon_to_liter(gallon_0)
+        print(f"{gallon_0} gallon(s) is {liter:.2f} liter(s).")
 
 

@@ -14,6 +14,7 @@ price_unit_2 = pizza_unit_price(diameter_2, price_2)
 
 print(f"\nThe unit price of the first pizza per square meter is {price_unit_1}")
 print(f"The unit price of the second pizza per square meter is {price_unit_2}")
+
 if price_unit_1 < price_unit_2:
     print("The first pizza provides better value for money.")
 elif price_unit_2 < price_unit_1:

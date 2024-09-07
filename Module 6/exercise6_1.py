@@ -1,7 +1,7 @@
-import random
+from random import randrange
 
 def roll_dice():
-    return random.randrange(1, 7)
+    return randrange(1, 7)
 
 print("\nLet's roll a dice until we get a 6!")
 while True:
@@ -12,4 +12,3 @@ while True:
         break
     else:
         print(number)
-        number = roll_dice()
