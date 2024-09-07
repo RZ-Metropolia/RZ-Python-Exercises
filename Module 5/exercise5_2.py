@@ -1,12 +1,11 @@
-numbers = []
 prompt = "\nPlease enter a number: "
-prompt += "\n(Press 'enter' button to quit)\n"
-number = input(prompt)
+prompt += "(Press 'enter' button to quit)\n"
 
+numbers = []
+number = input(prompt)
 while number != '':
     number = float(number)
     numbers.append(number)
-
     number = input(prompt)
 
 if len(numbers) == 0:

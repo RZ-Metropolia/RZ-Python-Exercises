@@ -1,4 +1,4 @@
-number = int(input("Please enter an integer:\n"))
+number = int(input("Please enter an integer: "))
 isPrime = None
 
 if number < 2:
