@@ -12,7 +12,7 @@ while True:
         names.append(name.lower())
 
     for name in names:
-        if name.lower() in existing_names:
+        if name in existing_names:
             print(f"{name.title()}: Existing name")
         else:
             print(f"{name.title()}: New name")
