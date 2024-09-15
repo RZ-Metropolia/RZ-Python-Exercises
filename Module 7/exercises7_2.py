@@ -16,6 +16,6 @@ while True:
             print(f"{name.title()}: Existing name")
         else:
             print(f"{name.title()}: New name")
-            existing_names.add(name.lower())
+            existing_names.add(name)
 
 print(f"The set of existing names: {existing_names}")
