@@ -47,8 +47,3 @@ while True:
 
     result = calculate_distance(airport_1_coordinate, airport_2_coordinate)
     print(f"The distance between {airport_1_name} and {airport_2_name} is {result:.2f} kilometers.")
-
-
-
-
-
