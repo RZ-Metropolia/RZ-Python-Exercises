@@ -10,7 +10,7 @@ connection = mysql.connector.connect(
     )
 
 def get_airport_infor(iso_country):
-    sql = f'select type, name from airport where iso_country = "{iso_country}" order by type asc, name asc;'
+    sql = f"select type, name from airport where iso_country = '{iso_country}' order by type asc, name asc;"
     cursor = connection.cursor()
     cursor.execute(sql)
     result = cursor.fetchall()

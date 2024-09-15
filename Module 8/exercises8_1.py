@@ -18,7 +18,7 @@ def get_airport_name(airport_ident):
     return name
 
 def get_airport_location(airport_ident):
-    sql = f'SELECT municipality FROM airport WHERE ident="{airport_ident}";'
+    sql = f"SELECT municipality FROM airport WHERE ident='{airport_ident}';"
     cursor = connection.cursor()
     cursor.execute(sql)
     result = cursor.fetchall()

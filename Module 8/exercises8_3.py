@@ -11,14 +11,14 @@ connection = mysql.connector.connect(
     )
 
 def get_airport_name(ident):
-    sql = f'select name from airport where ident="{ident}";'
+    sql = f"select name from airport where ident='{ident}';"
     cursor = connection.cursor()
     cursor.execute(sql)
     name = cursor.fetchall()[0][0]
     return name
 
 def get_airport_coordinate(ident):
-    sql = f'select latitude_deg, longitude_deg from airport where ident="{ident}";'
+    sql = f"select latitude_deg, longitude_deg from airport where ident='{ident}';"
     cursor = connection.cursor()
     cursor.execute(sql)
     coordinate = cursor.fetchall()[0]
@@ -46,7 +46,7 @@ while True:
         airport_2_coordinate = get_airport_coordinate(airport_2_ident.upper())
 
     result = calculate_distance(airport_1_coordinate, airport_2_coordinate)
-    print(f"The distance between {airport_1_name} and {airport_2_name} is {result} kilometers.")
+    print(f"The distance between {airport_1_name} and {airport_2_name} is {result:.2f} kilometers.")
 
 
 
