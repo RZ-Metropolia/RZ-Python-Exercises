@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaf6cfe5-18c7-45fd-a650-4e6270812786" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/Module 8/exercises8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 8/exercises8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 8/exercises8_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 8/exercises8_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="RuiZhao &lt;rui.zhao@metropolia.fi&gt;" />
+        <option value="Cohn Fish &lt;cohnfish@cohns-macbook-pro.local&gt;" />
+        <option value="Rui Zhao &lt;rui.zhao@metropolia.fi&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RZ-Metropolia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RZ-Metropolia/RZ-Python-Exercises.git&quot;,
+    &quot;accountId&quot;: &quot;c47656ac-f577-4086-acd8-d6a1b970440c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kqT5D1zGT2cAiAlJqmuhLyVF0Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Exercise_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise4_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise4_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise6_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise6_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise6_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercises7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercises7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercises7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercises8_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercises8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercises8_3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercise 1" />
+      <recent name="$PROJECT_DIR$/Exercise 2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaf6cfe5-18c7-45fd-a650-4e6270812786" name="Changes" comment="" />
+      <created>1724009922103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724009922103</updated>
+      <workItem from="1724009923243" duration="369000" />
+      <workItem from="1724010303031" duration="190000" />
+      <workItem from="1724016225094" duration="249000" />
+      <workItem from="1724052350139" duration="3000" />
+      <workItem from="1724054457243" duration="43000" />
+      <workItem from="1724055558401" duration="59000" />
+      <workItem from="1724055621876" duration="3000" />
+      <workItem from="1724055680369" duration="336000" />
+      <workItem from="1724057042036" duration="7812000" />
+      <workItem from="1724134574236" duration="1121000" />
+      <workItem from="1724221614829" duration="1521000" />
+      <workItem from="1724226689368" duration="3788000" />
+      <workItem from="1724408703199" duration="26000" />
+      <workItem from="1724408794867" duration="2326000" />
+      <workItem from="1724657188976" duration="2603000" />
+      <workItem from="1724823387697" duration="6820000" />
+      <workItem from="1724954264322" duration="2000" />
+      <workItem from="1725012804402" duration="1039000" />
+      <workItem from="1725171444733" duration="307000" />
+      <workItem from="1725171757634" duration="4557000" />
+      <workItem from="1725255373482" duration="7375000" />
+      <workItem from="1725284757862" duration="162000" />
+      <workItem from="1725284953616" duration="49000" />
+      <workItem from="1725285193191" duration="825000" />
+      <workItem from="1725617941047" duration="4956000" />
+      <workItem from="1725956536407" duration="17000" />
+      <workItem from="1725956569207" duration="17869000" />
+      <workItem from="1726081855433" duration="10000" />
+      <workItem from="1726221247801" duration="2359000" />
+      <workItem from="1726223620186" duration="30000" />
+      <workItem from="1726223655383" duration="3762000" />
+      <workItem from="1726230490199" duration="14000" />
+      <workItem from="1726383575826" duration="1995000" />
+      <workItem from="1726415809597" duration="239000" />
+      <workItem from="1726416093965" duration="2107000" />
+      <workItem from="1726474438962" duration="915000" />
+      <workItem from="1726490663764" duration="2000" />
+      <workItem from="1727540290996" duration="860000" />
+      <workItem from="1727546508249" duration="53000" />
+      <workItem from="1727546584949" duration="619000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724055812032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724055812032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724076875742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724076875742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724077231871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724077231871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724134476059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724134476059</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724134640254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724134640254</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724134649924</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724134649924</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724135285839</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724135285839</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724223307416</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724223307416</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724223340098</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724223340098</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724223392952</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724223392952</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724223478753</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724223478753</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724248946059</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724248946059</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724249005994</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724249005994</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724658882799</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724658882799</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724829631466</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724829631467</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1724829644866</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724829644866</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1725173135733</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725173135733</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1725175690432</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725175690432</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1725176282058</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725176282058</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1725262492112</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725262492112</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1725285317632</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725285317632</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1726228640870</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726228640870</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1726384695162</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726384695162</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1726384702268</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726384702268</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1726384842904</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726384842904</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1726385379674</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726385379674</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1726385424272</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726385424272</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Module 7/exercises7_2.py&#10;#&#9;Module 8/exercises8_1.py&#10;#&#9;Module 8/exercises8_2.py&#10;#&#9;Module 8/exercises8_3.py" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_3.coverage" NAME="exercise3_3 Coverage Results" MODIFIED="1725175593403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_1.coverage" NAME="Exercise_1 Coverage Results" MODIFIED="1724055597999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_1.coverage" NAME="exercise4_1 Coverage Results" MODIFIED="1725175436004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_3.coverage" NAME="exercise6_3 Coverage Results" MODIFIED="1725262442622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises7_2.coverage" NAME="exercises7_2 Coverage Results" MODIFIED="1726384219617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 7" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises8_3.coverage" NAME="exercises8_3 Coverage Results" MODIFIED="1726384639019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 8" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_2.coverage" NAME="Exercise_2_2 Coverage Results" MODIFIED="1724061369701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_2.coverage" NAME="exercise6_2 Coverage Results" MODIFIED="1725262203697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_6.coverage" NAME="exercise6_6 Coverage Results" MODIFIED="1725285287685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_4.coverage" NAME="exercise5_4 Coverage Results" MODIFIED="1725258787941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_5.coverage" NAME="exercise6_5 Coverage Results" MODIFIED="1725284987044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_4.coverage" NAME="exercise4_4 Coverage Results" MODIFIED="1725176296865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_2.coverage" NAME="exercise5_2 Coverage Results" MODIFIED="1725257969208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_4.coverage" NAME="Exercise_2_4 Coverage Results" MODIFIED="1724132876390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise 2" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_2.coverage" NAME="Exercise_3_2 Coverage Results" MODIFIED="1724657986948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises8_1.coverage" NAME="exercises8_1 Coverage Results" MODIFIED="1726384480340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 8" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_1.coverage" NAME="Exercise_3_1 Coverage Results" MODIFIED="1724657505568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_3.coverage" NAME="exercise5_3 Coverage Results" MODIFIED="1725258455558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_1.coverage" NAME="exercise6_1 Coverage Results" MODIFIED="1725259315258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises7_3.coverage" NAME="exercises7_3 Coverage Results" MODIFIED="1726384267650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 7" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_3.coverage" NAME="Exercise_2_3 Coverage Results" MODIFIED="1724061644076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_2.coverage" NAME="exercise4_2 Coverage Results" MODIFIED="1725175439658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_4.coverage" NAME="exercise3_4 Coverage Results" MODIFIED="1725175669165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_1.coverage" NAME="exercise3_1 Coverage Results" MODIFIED="1725176058830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2.coverage" NAME="Exercise_2 Coverage Results" MODIFIED="1724057167345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_4.coverage" NAME="Exercise_3_4 Coverage Results" MODIFIED="1724658848306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_6.coverage" NAME="Exercise_2_6 Coverage Results" MODIFIED="1724410608944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_6.coverage" NAME="exercise4_6 Coverage Results" MODIFIED="1725175413957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_1.coverage" NAME="exercise5_1 Coverage Results" MODIFIED="1725255891515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_3.coverage" NAME="exercise4_3 Coverage Results" MODIFIED="1725175456425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_5.coverage" NAME="Exercise_2_5 Coverage Results" MODIFIED="1724408717022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises7_1.coverage" NAME="exercises7_1 Coverage Results" MODIFIED="1726383679973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 7" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_3.coverage" NAME="Exercise_3_3 Coverage Results" MODIFIED="1724658569637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_5.coverage" NAME="exercise4_5 Coverage Results" MODIFIED="1725175317011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_2.coverage" NAME="exercise3_2 Coverage Results" MODIFIED="1725173317185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises8_2.coverage" NAME="exercises8_2 Coverage Results" MODIFIED="1726384506798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 8" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_4.coverage" NAME="exercise6_4 Coverage Results" MODIFIED="1725260334514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+  </component>
+</project>
