@@ -41,3 +41,4 @@ class Building:
 # main program
 building_0 = Building(1, 15, 2)
 building_0.run_elevator(1, 10)
+building_0.run_elevator(2, 8)
