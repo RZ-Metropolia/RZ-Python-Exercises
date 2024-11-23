@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaf6cfe5-18c7-45fd-a650-4e6270812786" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/Module 8/exercises8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 8/exercises8_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 8/exercises8_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 8/exercises8_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 13/ex13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 13/ex13_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,20 @@
     &quot;Python.Exercise_3_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Exercise_3_3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Exercise_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex11_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex11_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex12_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex12_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex13_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex13_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9_4.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise3_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise3_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise3_3.executor&quot;: &quot;Run&quot;,
@@ -94,7 +109,9 @@
     &quot;Python.exercises8_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercises8_3.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/cohnfish/PycharmProjects/RZ-Python-Exercises&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -106,6 +123,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Module12" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Module 9" />
       <recent name="$PROJECT_DIR$/Exercise 1" />
       <recent name="$PROJECT_DIR$/Exercise 2" />
     </key>
@@ -113,8 +133,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -166,6 +186,30 @@
       <workItem from="1727540290996" duration="860000" />
       <workItem from="1727546508249" duration="53000" />
       <workItem from="1727546584949" duration="619000" />
+      <workItem from="1729512655759" duration="1793000" />
+      <workItem from="1729665035993" duration="2362000" />
+      <workItem from="1729837126074" duration="3087000" />
+      <workItem from="1729926415399" duration="11000" />
+      <workItem from="1730099262422" duration="11026000" />
+      <workItem from="1730272493926" duration="6876000" />
+      <workItem from="1730281150354" duration="436000" />
+      <workItem from="1730305808032" duration="811000" />
+      <workItem from="1730359228513" duration="956000" />
+      <workItem from="1730444946341" duration="2155000" />
+      <workItem from="1730621656577" duration="194000" />
+      <workItem from="1730621856979" duration="28000" />
+      <workItem from="1730621948373" duration="38000" />
+      <workItem from="1730621991064" duration="1000" />
+      <workItem from="1730705611880" duration="24000" />
+      <workItem from="1730754886935" duration="4000" />
+      <workItem from="1730879437884" duration="9000" />
+      <workItem from="1730879451632" duration="21000" />
+      <workItem from="1731049022897" duration="72000" />
+      <workItem from="1731655351670" duration="33000" />
+      <workItem from="1731655415295" duration="233000" />
+      <workItem from="1732095641663" duration="1000" />
+      <workItem from="1732198587998" duration="1000" />
+      <workItem from="1732364533642" duration="1376000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
       <option name="closed" value="true" />
@@ -383,7 +427,47 @@
       <option name="project" value="LOCAL" />
       <updated>1726385424272</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1729512881230</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729512881230</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1729512935014</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729512935014</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1729513070748</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729513070748</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1729513145197</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729513145197</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1730445037289</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1730445037289</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,42 +491,56 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_3.coverage" NAME="exercise3_3 Coverage Results" MODIFIED="1725175593403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_1.coverage" NAME="Exercise_1 Coverage Results" MODIFIED="1724055597999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_1.coverage" NAME="exercise4_1 Coverage Results" MODIFIED="1725175436004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_3.coverage" NAME="exercise6_3 Coverage Results" MODIFIED="1725262442622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises7_2.coverage" NAME="exercises7_2 Coverage Results" MODIFIED="1726384219617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 7" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises8_3.coverage" NAME="exercises8_3 Coverage Results" MODIFIED="1726384639019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 8" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_2.coverage" NAME="Exercise_2_2 Coverage Results" MODIFIED="1724061369701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_2.coverage" NAME="exercise6_2 Coverage Results" MODIFIED="1725262203697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_6.coverage" NAME="exercise6_6 Coverage Results" MODIFIED="1725285287685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_4.coverage" NAME="exercise5_4 Coverage Results" MODIFIED="1725258787941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_5.coverage" NAME="exercise6_5 Coverage Results" MODIFIED="1725284987044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_4.coverage" NAME="exercise4_4 Coverage Results" MODIFIED="1725176296865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_2.coverage" NAME="exercise5_2 Coverage Results" MODIFIED="1725257969208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_4.coverage" NAME="Exercise_2_4 Coverage Results" MODIFIED="1724132876390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise 2" />
     <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_2.coverage" NAME="Exercise_3_2 Coverage Results" MODIFIED="1724657986948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises8_1.coverage" NAME="exercises8_1 Coverage Results" MODIFIED="1726384480340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 8" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_1.coverage" NAME="Exercise_3_1 Coverage Results" MODIFIED="1724657505568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_3.coverage" NAME="exercise5_3 Coverage Results" MODIFIED="1725258455558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_3.coverage" NAME="exercise6_3 Coverage Results" MODIFIED="1725262442622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_6.coverage" NAME="exercise6_6 Coverage Results" MODIFIED="1725285287685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_2.coverage" NAME="exercise5_2 Coverage Results" MODIFIED="1725257969208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex13_2.coverage" NAME="ex13_2 Coverage Results" MODIFIED="1730278903749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 13" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_4.coverage" NAME="Exercise_2_4 Coverage Results" MODIFIED="1724132876390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise 2" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_1.coverage" NAME="exercise4_1 Coverage Results" MODIFIED="1725175436004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2.coverage" NAME="Exercise_2 Coverage Results" MODIFIED="1724057167345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_4.coverage" NAME="exercise4_4 Coverage Results" MODIFIED="1725176296865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex9_4.coverage" NAME="ex9_4 Coverage Results" MODIFIED="1729666085560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module09" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex10_2.coverage" NAME="ex10_2 Coverage Results" MODIFIED="1729513139680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module10" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex12_1.coverage" NAME="ex12_1 Coverage Results" MODIFIED="1732364545002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module12" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_3.coverage" NAME="exercise3_3 Coverage Results" MODIFIED="1725175593403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises8_3.coverage" NAME="exercises8_3 Coverage Results" MODIFIED="1726384639019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 8" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises7_2.coverage" NAME="exercises7_2 Coverage Results" MODIFIED="1726384219617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 7" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex9_1.coverage" NAME="ex9_1 Coverage Results" MODIFIED="1729513391698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module09" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex10_4.coverage" NAME="ex10_4 Coverage Results" MODIFIED="1729513322602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module10" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_6.coverage" NAME="exercise4_6 Coverage Results" MODIFIED="1725175413957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_6.coverage" NAME="Exercise_2_6 Coverage Results" MODIFIED="1724410608944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2" />
     <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_1.coverage" NAME="exercise6_1 Coverage Results" MODIFIED="1725259315258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
     <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises7_3.coverage" NAME="exercises7_3 Coverage Results" MODIFIED="1726384267650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 7" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_3.coverage" NAME="Exercise_2_3 Coverage Results" MODIFIED="1724061644076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_2.coverage" NAME="exercise4_2 Coverage Results" MODIFIED="1725175439658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_4.coverage" NAME="exercise3_4 Coverage Results" MODIFIED="1725175669165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_1.coverage" NAME="exercise3_1 Coverage Results" MODIFIED="1725176058830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2.coverage" NAME="Exercise_2 Coverage Results" MODIFIED="1724057167345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_4.coverage" NAME="Exercise_3_4 Coverage Results" MODIFIED="1724658848306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_6.coverage" NAME="Exercise_2_6 Coverage Results" MODIFIED="1724410608944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_6.coverage" NAME="exercise4_6 Coverage Results" MODIFIED="1725175413957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_1.coverage" NAME="Exercise_3_1 Coverage Results" MODIFIED="1724657505568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_2.coverage" NAME="exercise6_2 Coverage Results" MODIFIED="1725262203697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex10_3.coverage" NAME="ex10_3 Coverage Results" MODIFIED="1729513161755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module10" />
     <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_1.coverage" NAME="exercise5_1 Coverage Results" MODIFIED="1725255891515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_3.coverage" NAME="exercise4_3 Coverage Results" MODIFIED="1725175456425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
     <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_5.coverage" NAME="Exercise_2_5 Coverage Results" MODIFIED="1724408717022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises7_1.coverage" NAME="exercises7_1 Coverage Results" MODIFIED="1726383679973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 7" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_3.coverage" NAME="Exercise_3_3 Coverage Results" MODIFIED="1724658569637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_5.coverage" NAME="exercise4_5 Coverage Results" MODIFIED="1725175317011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
-    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_2.coverage" NAME="exercise3_2 Coverage Results" MODIFIED="1725173317185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
     <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises8_2.coverage" NAME="exercises8_2 Coverage Results" MODIFIED="1726384506798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 8" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_1.coverage" NAME="Exercise_1 Coverage Results" MODIFIED="1724055597999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_3.coverage" NAME="exercise5_3 Coverage Results" MODIFIED="1725258455558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_5.coverage" NAME="exercise4_5 Coverage Results" MODIFIED="1725175317011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_4.coverage" NAME="exercise3_4 Coverage Results" MODIFIED="1725175669165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_2.coverage" NAME="exercise4_2 Coverage Results" MODIFIED="1725175439658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_4.coverage" NAME="Exercise_3_4 Coverage Results" MODIFIED="1724658848306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex13_1.coverage" NAME="ex13_1 Coverage Results" MODIFIED="1730278686134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 13" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_1.coverage" NAME="exercise3_1 Coverage Results" MODIFIED="1725176058830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex10_1.coverage" NAME="ex10_1 Coverage Results" MODIFIED="1729513218600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module10" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex11_2.coverage" NAME="ex11_2 Coverage Results" MODIFIED="1730444981005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module11" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise3_2.coverage" NAME="exercise3_2 Coverage Results" MODIFIED="1725173317185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_3.coverage" NAME="Exercise_2_3 Coverage Results" MODIFIED="1724061644076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_5.coverage" NAME="exercise6_5 Coverage Results" MODIFIED="1725284987044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex9_3.coverage" NAME="ex9_3 Coverage Results" MODIFIED="1729513502982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module09" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises8_1.coverage" NAME="exercises8_1 Coverage Results" MODIFIED="1726384480340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 8" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex12_2.coverage" NAME="ex12_2 Coverage Results" MODIFIED="1730705623222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module12" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex9_2.coverage" NAME="ex9_2 Coverage Results" MODIFIED="1729513475938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module09" />
     <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise6_4.coverage" NAME="exercise6_4 Coverage Results" MODIFIED="1725260334514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 6" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_2_2.coverage" NAME="Exercise_2_2 Coverage Results" MODIFIED="1724061369701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercises7_1.coverage" NAME="exercises7_1 Coverage Results" MODIFIED="1726383679973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 7" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise5_4.coverage" NAME="exercise5_4 Coverage Results" MODIFIED="1725258787941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 5" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$exercise4_3.coverage" NAME="exercise4_3 Coverage Results" MODIFIED="1725175456425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 4" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$ex11_1.coverage" NAME="ex11_1 Coverage Results" MODIFIED="1730444973704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module11" />
+    <SUITE FILE_PATH="coverage/RZ_Python_Exercises$Exercise_3_3.coverage" NAME="Exercise_3_3 Coverage Results" MODIFIED="1724658569637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3" />
   </component>
 </project>
