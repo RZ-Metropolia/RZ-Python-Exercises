@@ -30,6 +30,7 @@ def isPrime(number):
             "message": "Invalid number",
             "status": 400
         }
+
         response = json.dumps(response)
         return response
 
